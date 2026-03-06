@@ -1,5 +1,6 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.spark-staging-b4dd854d-042a-41a0-ad07-a9edb1315137/
 
 # Python cache
 __pycache__/
@@ -18,3 +19,4 @@ spark-warehouse/
 # OS
 .DS_Store
 Thumbs.db
+
