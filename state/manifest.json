@@ -1,7 +1,7 @@
 {
   "processed_files": [
-    "input/yellow_tripdata_2025-01.parquet",
-    "input/yellow_tripdata_2025-02.parquet"
+    "inbox/yellow_tripdata_2025-01.parquet",
+    "inbox/yellow_tripdata_2025-02.parquet"
   ],
   "last_updated": "2026-03-07T22:29:44.553403"
 }
